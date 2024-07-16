@@ -1,0 +1,48 @@
+html{
+    font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+header
+{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+
+
+}
+nav{
+    display: flex;
+    gap: 10px;
+}
+.getintouch
+{   
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   gap: 45px;
+}
+.resume
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+ a{
+    text-decoration: none;
+    color: #000;
+    
+    
+
+}
+a:hover
+{
+    color: rgb(137, 75, 195);
+
+}
+nav a{
+    font-size: 25px;
+
+}

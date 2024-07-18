@@ -46,3 +46,12 @@ nav a{
     font-size: 25px;
 
 }
+.mp
+{
+    font-family: "Kalnia Glaze", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    color: blue;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;}
